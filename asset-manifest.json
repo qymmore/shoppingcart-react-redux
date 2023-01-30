@@ -1,13 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.9fbc5d2c.css",
-    "main.js": "/static/js/main.bdd1ed15.js",
+    "main.css": "/static/css/main.cd5acced.css",
+    "main.js": "/static/js/main.1eff2f01.js",
+    "static/media/item2.png": "/static/media/item2.6f2367338fe15aeb7194.png",
+    "static/media/item3.png": "/static/media/item3.8a3205a2181c2cff88b5.png",
+    "static/media/item6.png": "/static/media/item6.e00687f2895382ccb515.png",
+    "static/media/item7.png": "/static/media/item7.281ebb41fc81074d63b5.png",
+    "static/media/item8.png": "/static/media/item8.4a7bcb7debc26e41b9c7.png",
+    "static/media/item4.png": "/static/media/item4.ecbaba8d81c4d665f23b.png",
+    "static/media/item5.png": "/static/media/item5.1cc95423591e547a7dc4.png",
+    "static/media/item1.png": "/static/media/item1.44ceaa1f2eefc4a1f565.png",
     "index.html": "/index.html",
-    "main.9fbc5d2c.css.map": "/static/css/main.9fbc5d2c.css.map",
-    "main.bdd1ed15.js.map": "/static/js/main.bdd1ed15.js.map"
+    "main.cd5acced.css.map": "/static/css/main.cd5acced.css.map",
+    "main.1eff2f01.js.map": "/static/js/main.1eff2f01.js.map"
   },
   "entrypoints": [
-    "static/css/main.9fbc5d2c.css",
-    "static/js/main.bdd1ed15.js"
+    "static/css/main.cd5acced.css",
+    "static/js/main.1eff2f01.js"
   ]
 }
